@@ -18,6 +18,7 @@ public class Leetcode {
         // TODO code application logic here
         
         System.out.print("Hello, World");
+        System.out.print("F**");
     }
     
 }
